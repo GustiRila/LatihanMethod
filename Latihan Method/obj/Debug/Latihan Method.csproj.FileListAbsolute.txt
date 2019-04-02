@@ -1,0 +1,7 @@
+D:\18.11.2270\Latihan Method\Latihan Method\obj\Debug\Latihan Method.csprojAssemblyReference.cache
+D:\18.11.2270\Latihan Method\Latihan Method\obj\Debug\Latihan Method.csproj.CoreCompileInputs.cache
+D:\18.11.2270\Latihan Method\Latihan Method\bin\Debug\Latihan Method.exe.config
+D:\18.11.2270\Latihan Method\Latihan Method\bin\Debug\Latihan Method.exe
+D:\18.11.2270\Latihan Method\Latihan Method\bin\Debug\Latihan Method.pdb
+D:\18.11.2270\Latihan Method\Latihan Method\obj\Debug\Latihan Method.exe
+D:\18.11.2270\Latihan Method\Latihan Method\obj\Debug\Latihan Method.pdb
